@@ -30,7 +30,7 @@ https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/edit/main/blob/main/
 Here is a demonstration of the image analysis feature:
 
 ![Image Analysis Demo](
-https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/edit/main/image_analysis_demo.png?raw=true)
+https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/blob/main/image_analysis_demo.png)
 
 ## How It Works
 
