@@ -14,7 +14,7 @@ Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
 Using Prompt: "Border Collie running in grass land"
 
 ![Image Generation Demo](
-https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/edit/main/test_image.png?raw=true)
+https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/edit/main/test_image.png)
 
 ## Image Generation Demo #2
 
@@ -23,7 +23,7 @@ Below is an example of an image generated using the DALL-E 4 Azure OpenAI API:
 Using Prompt: "A futuristic city in neon light"
 
 ![Image Generation Demo](
-https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/edit/main/blob/main/image_generation_demo_2.png?raw=true)
+https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/edit/main/blob/main/image_generation_demo_2.png)
 
 ## Image Analysis Demo
 
