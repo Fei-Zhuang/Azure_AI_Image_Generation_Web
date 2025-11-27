@@ -43,7 +43,7 @@ To run this project locally or deploy it yourself, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/l-zhuang/analyze-and-generate-images-with-Azure-AI.git
+   git clone https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/tree/main
 
 
 # React basic
