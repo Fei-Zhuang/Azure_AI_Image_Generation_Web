@@ -46,11 +46,6 @@ To run this project locally or deploy it yourself, follow these steps:
    git clone https://github.com/Fei-Zhuang/Azure_AI_Image_Generation_Web/tree/main
 
 
-# React basic
-
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
